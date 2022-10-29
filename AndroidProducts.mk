@@ -7,8 +7,12 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_dura.mk
+    $(LOCAL_DIR)/twrp_dura.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_dura-user \
     omni_dura-userdebug \
-    omni_dura-eng
+    omni_dura-eng \    
+    twrp_dura-user \
+    twrp_dura-userdebug \
+    twrp_dura-eng
