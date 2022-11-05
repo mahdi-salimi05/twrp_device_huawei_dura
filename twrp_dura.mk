@@ -19,7 +19,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := dura
-PRODUCT_NAME := full_dura
+PRODUCT_NAME := twrp_dura
 PRODUCT_BRAND := huawei
 PRODUCT_MODEL := DRA-LX5
 PRODUCT_MANUFACTURER := huawei
