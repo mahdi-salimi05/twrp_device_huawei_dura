@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_dura.mk
+    $(LOCAL_DIR)/omni_dura.mk \
     $(LOCAL_DIR)/twrp_dura.mk
 
 COMMON_LUNCH_CHOICES := \
