@@ -12,7 +12,7 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     omni_dura-user \
     omni_dura-userdebug \
-    omni_dura-eng \    
+    omni_dura-eng \
     twrp_dura-user \
     twrp_dura-userdebug \
     twrp_dura-eng
